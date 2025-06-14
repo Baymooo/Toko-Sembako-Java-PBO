@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #000000;
-  background: linear-gradient(135deg, #fafafa 0%, #24864a 100%);
+  background: linear-gradient(150deg, #fafafa 0%, #33d80a 170%);
   overflow-x: hidden;
   font-size: 18px;
   line-height: 1.6;
@@ -346,7 +346,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #f3c93e;
+  color: #0fe20fc5;
 }
 
 .slider_section .detail-box p {
@@ -356,10 +356,10 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f3c93e;
+  background-color: #a7dc97;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #f3c93e;
+  border: 1px solid #24a124;
   -webkit-transition: all .3s;
   transition: all .3s;
   margin-top: 15px;
@@ -367,7 +367,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #f3c93e;
+  color: #40d143;
 }
 
 .slider_section .img-box img {
@@ -410,7 +410,7 @@ a:focus {
 
 .slider_section .carousel_btn_box .carousel-control-prev:hover,
 .slider_section .carousel_btn_box .carousel-control-next:hover {
-  background-color: #f3c93e;
+  background-color: #347657;
 }
 
 .product_section .heading_container {
@@ -462,7 +462,7 @@ a:focus {
   text-align: center;
   height: 45px;
   line-height: 45px;
-  background-color: #3a4468;
+  background-color: #0ec26b;
   border: solid 1px #ffffff;
   color: #ffffff;
   position: absolute;
@@ -477,7 +477,7 @@ a:focus {
 }
 
 .product_section .box .img-box .add_cart_btn:hover {
-  background-color: #f3c93e;
+  background-color: #4ee97a;
   color: #ffffff;
 }
 
@@ -542,7 +542,7 @@ a:focus {
 .product_section .btn_box .view_more-link {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f3c93e;
+  background-color: #95eeb1;
   color: #ffffff;
   border-radius: 5px;
   border: 1px solid #f3c93e;
